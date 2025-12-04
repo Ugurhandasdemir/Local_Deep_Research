@@ -20,3 +20,18 @@ for result in results.points:
     print(f"\n--- Skor: {result.score:.4f} ---")
     print(f"Filename: {result.payload.get('filename')}")
     print(f"Text: {result.payload.get('text', '')[:300]}...")
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
